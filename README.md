@@ -1,3 +1,4 @@
+先把你想要深度估计的视频命名为original.mp4，然后放到根目录里面
 ###  **==1.运行step_1:==**
 
 ​	将对应的original.mp4的每帧画面保存为图片，保存在videoToPictures文件夹中，图片给他resize成(640，480)
